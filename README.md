@@ -1,4 +1,4 @@
-# CSS This is a project to display differents transitions with css.
+# CSS This is a project to display different transitions with css.
 
 Evey new transitions are welcome.
 
